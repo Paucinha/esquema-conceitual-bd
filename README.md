@@ -32,8 +32,6 @@ Full-Stack | Intermediário | SQL
 
 Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a Dados com Copilot**](https://www.dio.me/bootcamp/coding-the-future-heineken-ia-para-analise-de-dados), fornecido pela [**DIO**](https://www.dio.me/)
 
-![Certificado](https://github.com/Paucinha/esquema-conceitual-bd/blob/master/TM8QJEYG.pdf)
-
 ##
 
 By Paucinha!!!
