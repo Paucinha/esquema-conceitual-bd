@@ -1,4 +1,4 @@
-# Construindo um Esquema Conceitual para Banco De dados
+# Construindo um Esquema Conceitual para Banco de dados
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
