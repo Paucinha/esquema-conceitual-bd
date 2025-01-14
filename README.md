@@ -32,7 +32,7 @@ Full-Stack | Intermediário | SQL
 
 Projeto desenvolvido durante o [**Heineken - Inteligência Artificial Aplicada a Dados com Copilot**](https://www.dio.me/bootcamp/coding-the-future-heineken-ia-para-analise-de-dados), fornecido pela [**DIO**](https://www.dio.me/)
 
-![Certificado](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hermes.dio.me/certificates/TM8QJEYG.pdf)
+![Certificado]
 
 ##
 
